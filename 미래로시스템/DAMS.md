@@ -1,9 +1,10 @@
 # DAMS
-### PROJECT 소개
+### 프로젝트 소개
 DAMS는 반도체 Mask 관련 설비들의 Recipe 자동 생성 & 배포를 통해 엔지니어 작업을 자동화해주는 솔루션입니다.  
 회사 내 Recipe 관련 비즈니스를 통합하기 위해 플랫폼 형식으로 설계 개발 진행 중입니다.
 
-### 프로젝트 기간
+### 프로젝트 인원 & 기간
+- 5명
 - 2024.1.1 ~ 현재
 
 ### 업무 포지션
@@ -15,7 +16,7 @@ DAMS는 반도체 Mask 관련 설비들의 Recipe 자동 생성 & 배포를 통�
 - .NET 서비스 개발
 - CI/CD 구축 및 클린 아키텍처 및 DDD 적용
 
-### Project Skills
+### Skills
 ![Static Badge](https://img.shields.io/badge/csharp-512BD4)
 ![Static Badge](https://img.shields.io/badge/.NET-5C2D91)
 ![Static Badge](https://img.shields.io/badge/javascript-F7DF1E)
